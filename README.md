@@ -17,6 +17,7 @@
 - Windows 10</b> (21H2)
 
 <h2>Configuration Steps</h2>
+<p><h2>Ticket 1</h2></p>
 
 <p>
 <img width="473" alt="image" src="https://github.com/user-attachments/assets/577eb7ed-628a-403c-ab42-6e4c42b2984b">
@@ -35,4 +36,10 @@
 <p>3. Set Properties to the ticket:Sev-A (1 hour, 24/7), Online Banking Department
 </p>
 <br />
+<p>4.Work the ticket to completion as jane</p>
+
+<h2>Ticket 2</h2>
+
+
+
 
