@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Example tickets and solutionsh1>
+<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -15,16 +15,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-
-<h2>Post-Install Configuration Learning Objectives</h2>
-
-1. Understand Basic System Access and Navigation
-2. Configure User Roles and Permissions
-3. Establish Departmental and Team Structures
-4. Manage User Access and Ticket Submission Settings
-5. Add and Manage Agents and Users
-6. Set Up and Apply Service Level Agreements (SLAs)
-7. Define Help Topics to Guide Ticket Submission
 
 <h2>Configuration Steps</h2>
 
