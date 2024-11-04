@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Example tickets and solutionsh1>
+<h1>osTicket - Example tickets and solutionsh1
 <br />
 
 
@@ -19,18 +19,19 @@
 <h2>Configuration Steps</h2>
 
 <p>
-<img width="451" alt="image" src="https://github.com/user-attachments/assets/60c142c5-f1b0-4547-bc96-b73f89984e3c">
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/577eb7ed-628a-403c-ab42-6e4c42b2984b">
+</p>
 
+<p>
+1.As an end-user, create the following ticket: entire mobile/online banking system is down
 </p>
 <p>
-1. Access Login Pages
-Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
-End User Portal: http://localhost/osTicket
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/ba9614b3-fe28-4698-a248-395c20de0fc4">
 </p>
 <p>
-2. Understand the Agent Panel vs. Admin Panel
-Familiarize yourself with the Agent Panel (for ticket management) and Admin Panel (for system configuration).
+ 2.As Help Desk Agent (john), observe the ticket’s properties, Priority, Department, SLA,Assigned To
 </p>
+
 <p>3. Set Up Roles (Group Permissions)
 Navigate to Admin Panel > Agents > Roles.
 Create and assign Roles to group permissions. Example: Supreme Admin for full access.</p>
