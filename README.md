@@ -57,6 +57,21 @@ Support
  </p>
 
  <h2>Ticket 3</h2>
+
+ <p>
+1.As an end-user, create the following ticket
+CFO’s laptop will no longer turn on
+</p>
+
+<p>
+2.As a Help Desk Agent (john), observe the ticket’s properties Priority, Department, SLA, Assigned To
+</p>
+
+<p>
+Set Properties to the ticket
+Sev-B (4 hours, 24/7)
+Support
+</p>
  
 
 
