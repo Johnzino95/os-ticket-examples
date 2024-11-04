@@ -39,6 +39,28 @@
 <p>4.Work the ticket to completion as jane</p>
 
 <h2>Ticket 2</h2>
+<p>1.As an end-user, create the following ticket
+accounting department needs adobe upgrade, broken
+</p>
+
+<p>
+2.As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+</p>
+
+<p>3.Set Properties to the ticket
+Sev-B (4 hours, 24/7)
+Support
+ </p>
+
+ <h2>Ticket 3</h2>
+ 
+
+
+
 
 
 
